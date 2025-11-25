@@ -1,0 +1,2 @@
+# AUTONOMOUS-TRAFFIC-SIGN-RECOGNITION-SYSTEM-REAL-TIME-DEPLOYMENT-
+Autonomous Traffic Sign Recognition system built using TensorFlow, EfficientNetB0, and Streamlit. The model is trained on the GTSRB dataset to classify 43 types of traffic signs in real-time. Includes a fully interactive Streamlit UI where users can upload images and instantly view predictions, confidence scores, and probability charts.
